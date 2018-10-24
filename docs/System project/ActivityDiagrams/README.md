@@ -9,7 +9,7 @@
 <a name="authorization"/>
 
 # 1 Авторизация
-![Авторизация](Authorization.png)  
+![Авторизация](Authorization1.png)  
 
 <a name="search"/>
 
