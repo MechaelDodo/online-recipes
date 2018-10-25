@@ -5,6 +5,7 @@
 1 [Авторизация](#authorization)  
 2 [Поиск рецепта](#search)  
 3 [Выход из учетной записи](#logout)
+4 [Удаление рецепта](#deleteRecipe)
 
 <a name="authorization"/>
 
@@ -20,3 +21,8 @@
 
 # 3 Выход из учетной записи
 ![Выход из учетной записи](Logout.png)
+
+<a name="deleteRecipe"/>
+
+# 4 Удаление рецепта
+![Удаление рецепта](DeleteRecipe.png)
