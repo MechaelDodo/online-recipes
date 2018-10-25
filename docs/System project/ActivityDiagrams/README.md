@@ -4,7 +4,7 @@
 # Содержание
 1 [Авторизация](#authorization)  
 2 [Поиск рецепта](#search)  
-3 [Выход из учетной записи](#logout)
+3 [Выход из учетной записи](#logout)  
 4 [Удаление рецепта](#deleteRecipe)
 
 <a name="authorization"/>
