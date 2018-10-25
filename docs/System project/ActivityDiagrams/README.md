@@ -5,7 +5,7 @@
 1 [Авторизация](#authorization)  
 2 [Поиск рецепта](#search)  
 3 [Выход из учетной записи](#logout)  
-4 [Удаление рецепта](#deleterecipe)
+4 [Удаление рецепта](#deleterecipe)  
 5 [Добавление рецепта](#add)
 <a name="authorization"/>
 
