@@ -37,6 +37,6 @@
 <a name="show"/>
 
 # 6 Вывод рецептов
-![Вывод рецептов](ShowRecipe.png)
+![Вывод рецептов](ShowRecipes.png)
 
 
