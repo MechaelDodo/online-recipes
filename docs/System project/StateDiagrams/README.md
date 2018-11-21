@@ -27,8 +27,8 @@
 
 <a name="delete"/>
 
-# 4 Удаление препарата
-![Удаление препарата](DeleteRecipe.png)
+# 4 Удаление рецепта
+![Удаление рецепта](DeleteRecipe.png)
 
 <a name="add"/>
 
@@ -37,8 +37,8 @@
 
 <a name="show"/>
 
-# 6 Вывод препаратов
-![Вывод препаратов](ShowRecipes.png)
+# 6 Вывод рецептов
+![Вывод рецептов](ShowRecipes.png)
 
 <a name="delete"/>
 
