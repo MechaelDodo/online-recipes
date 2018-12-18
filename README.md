@@ -4,4 +4,4 @@ Online-recipes - это онлайн-"кухня", с простым в осво
 1 [Требования к проекту](docs/project_requirements.md)  
 2 [Документы](docs/SystemProject/README.md)  
 3 [Код приложения](code/src/by/bsuir/recipeforum)  
-4 [Тестирование](testing/TestPlan.md)
+4 [Тестирование](testing/TestPlane.md)
